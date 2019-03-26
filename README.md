@@ -6,6 +6,6 @@ How to use:
 4) Select either to Encrypt or Decrypt (Enter 1 or 2)
 5) Type file name along with the extension (Eg: \<filename\>.\<extension\>)
 6) Enter passphrase and share passphrase with receipient only
-7)
+7) Results:
 + \<filename\>.\<extension\> will be encrypted and \<filename\>.\<extension\>.gpg will be created
 + \<filename\>.\<extension\>.gpg will be decrypted to \<filename\>.\<extension\> 
